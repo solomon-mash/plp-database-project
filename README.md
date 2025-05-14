@@ -1,4 +1,4 @@
-## 📌 Project Title: Clinic Booking System
+# Clinic Booking System
 ## 📄 Description
 
 ### This project models a Clinic Booking System, allowing:
